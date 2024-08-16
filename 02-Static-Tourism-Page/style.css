@@ -1,0 +1,11 @@
+#headline {
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold;
+  color: #e1624f;
+  text-transform: uppercase;
+}
+
+#page {
+  background-color: #F5F4F0;
+}
