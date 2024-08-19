@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/*===== LAYOUT ======*/
+body {
+  background-color: #F5F4F0;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+  color: #333333;
+}
+#home {
+  width: 1120px;
+  margin: 80px auto 65px;
+}
+img {
+  border-radius: 28px;
+  width: 100%;
+}
+hr {
+  border-color: #D9D9D9;
+  margin-bottom: 40px;
+}
+
+/*====== TYPOGRAPHY =======*/
+
+h1 {
+  font-size: 36px;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 16px;
+  color: #E1624F;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+}
+p {
+  font-size: 16px;
+  line-height: auto;
+}
+h1, h2, h3 {
+  font-weight: bold;
+  line-height: auto;
+}
+ol p {
+  font-weight: normal;
+}
+
+/*========= TITLE PAGE =======*/
+.description {
+  display: grid;
+  gap: 24px;
+  margin: 40px 0;
+}
+
+.title-page p {
+  text-align: center;
+}
+
+
+/*========= CONTENT LIST =========*/
+
+
+/* TITLE LIST */
+.title-list {
+  margin: 64px 0;
+}
+.title-list h2 {
+  margin-bottom: 8px;
+}
+
+/* LIST */
+.list {
+  display: grid;
+  gap: 48px;
+  margin-bottom: 40px;
+}
+
+/* CARD TRAVEL */
+.card-travel {
+  display: grid;
+  gap: 20px;
+}
+.card-travel ol {
+  margin-left: 40px;
+  font-size: 28px;
+  font-weight: bold;
+}
+.card-travel ol li {
+  margin-bottom: 4px;
+}
+.card-travel p {
+  margin-bottom: 30px;
+}
+.card-travel ul {
+  font-weight: bold;
+}
+.card-travel ul li {
+  margin-left: 22px;
+}
+.card-travel ul li::marker {
+  color: #333333;
+}
+.history li {
+  color: #0C51A7;
+}
+.rainbow li {
+  color: #591B98
+}
+.rainbow li + li {
+  color: #E5245E;
+}
+.rainbow li + li + li {
+  color: #E95E10;
+}
+/*===== DESCRIPTION =======*/
+.description {
+  text-align: center;
+}
+
+/*======== FOOTER ======= */
+footer {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  margin: 65px 0 48px;
+}
+footer img {
+  padding: 5px;
+  width: 30px;
+}
