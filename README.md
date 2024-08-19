@@ -6,6 +6,8 @@ Bem-vindo ao repositório de Front-end! Este repositório foi criado para armaze
 
 - [01-Recipe-page](https://github.com/GirardiMatheus/Front-end-studies/tree/01-Recipe-page)
 - [02-Static-Tourism-Page](https://github.com/GirardiMatheus/Front-end-studies/tree/02-Static-Tourism-Page)
+- [03-TravelGram](https://github.com/GirardiMatheus/Front-end-studies/tree/03-TravelGram)
+- [04-News-portal](https://github.com/GirardiMatheus/Front-end-studies/tree/04-News-portal)
 
 ## Como Navegar no Repositório
 
