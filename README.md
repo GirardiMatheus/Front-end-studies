@@ -10,6 +10,7 @@ Bem-vindo ao repositório de Front-end! Este repositório foi criado para armaze
 - [04-News-portal](https://github.com/GirardiMatheus/Front-end-studies/tree/04-News-portal)
 - [05-Portfolio-dev](https://github.com/GirardiMatheus/Front-end-studies/tree/05-Portfolio-dev)
 - [06-Registration-Form](https://github.com/GirardiMatheus/Front-end-studies/tree/06-Registration-Form)
+- [07-Invitation-Form](https://github.com/GirardiMatheus/Front-end-studies/tree/07-Invitation-Form)
 
 ## Como Navegar no Repositório
 
